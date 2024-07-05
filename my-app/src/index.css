@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: #272727;
+  font-family:'Courier New', Courier, monospace
+}
+button:hover{
+  background-color: black;
+  border: 1px solid black;
+}
